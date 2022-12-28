@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cthullu
-- 👀 I’m interested in Python, Ansible, COntainer and general server configuration
+- 👀 I’m interested in Python, Ansible, Container and general server configuration
 - 🌱 I’m currently getting a deeper understanding of podman and containers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
